@@ -1,0 +1,8 @@
+{
+  "name": "data-extractor",
+  "version": "1.0.0",
+  "description": "结构化数据提取 - 从HTML/JSON/CSV/自由文本中提取结构化数据，支持自定义字段",
+  "runtime": "python",
+  "entry": "entry.py",
+  "transport": "stdio"
+}
